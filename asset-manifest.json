@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.f30a960b.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.6c9078fa.js",
+    "static/media/calcu.png": "/ws101_react_landingpage/static/media/calcu.dafc262da6e77e3a4de3.png",
+    "static/media/socmed.png": "/ws101_react_landingpage/static/media/socmed.48d985ae4b4626fc8e01.png",
+    "static/media/game.png": "/ws101_react_landingpage/static/media/game.f66012eb2abb7dffa55c.png",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.f30a960b.css.map": "/ws101_react_landingpage/static/css/main.f30a960b.css.map",
+    "main.6c9078fa.js.map": "/ws101_react_landingpage/static/js/main.6c9078fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30a960b.css",
+    "static/js/main.6c9078fa.js"
+  ]
+}
